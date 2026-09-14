@@ -6,13 +6,13 @@ A streaming data pipeline that replaces a 12-hour batch reporting delay with rea
 
 ## Architecture & Data Flow
 
----
+
 ---
 
 ## Tech Stack
 * **Messaging:** Apache Kafka
 * **Stream Processing:** PySpark Structured Streaming
-* **Storage:** HDFS, Apache Parquet
+* **Storage:** HDFS
 * **Query & Metastore:** Apache Hive
 * **Orchestration:** Bash Shell Scripts
 
