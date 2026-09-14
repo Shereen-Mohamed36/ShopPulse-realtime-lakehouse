@@ -6,6 +6,7 @@ A streaming data pipeline that replaces a 12-hour batch reporting delay with rea
 
 ## Architecture & Data Flow
 
+<img width="2720" height="2400" alt="shoppulse_realtime_pipeline_architecture" src="https://github.com/user-attachments/assets/3754e15d-e667-41fb-b9f6-4749f12e79ed" />
 
 ---
 
